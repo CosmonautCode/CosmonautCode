@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Im a ML/AI Engineer, i really enjoy challanging myself, i hope you find my work fun to mess around with and educational.
 
 #### Languages:
 
